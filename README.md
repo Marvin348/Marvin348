@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I’m a motivated career changer from Germany, currently transitioning into Frontend Development.
-For the past 13 months I’ve been learning and building projects with **HTML**, **CSS**, **JavaScript**, **Tailwind** and **React** — and I recently started diving into **TypeScript** to strengthen my foundation.
+For the past 14 months I’ve been learning and building projects with **HTML**, **CSS**, **JavaScript**, **Tailwind** and **React** — and I recently started diving into **TypeScript** to strengthen my foundation.
 
 ### 🔥 What I enjoy
 
