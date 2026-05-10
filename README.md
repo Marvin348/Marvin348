@@ -3,7 +3,7 @@
 I’m a motivated career changer from Germany, currently transitioning into Frontend Development.
 For the past 14 months I’ve been learning and building projects with **HTML**, **CSS**, **TypeScript**, **Tailwind** and **React** and I recently started diving into backend **(Node + Express)** to strengthen my foundation.
 
-### 🔥 What I enjo
+### 🔥 What I enjoy
 
 - Building clean, interactive and user-friendly web interfaces
 - Learning modern technologies and applying them in real projects
