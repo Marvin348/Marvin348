@@ -17,7 +17,7 @@ For the past 14 months I’ve been learning and building projects with **HTML**,
 - **Long-term:** Expand my skills towards **Fullstack Development**
 
 ### 📌 Current Focus
-- **Backend basics** (Node+Express)
+- **Backend basics** (Node+Expres)
 - React ecosystem
 - TypeScript fundamentals
 - Writing cleaner, more maintainable code
