@@ -19,5 +19,4 @@ For the past 14 months I’ve been learning and building projects with **HTML**,
 ### 📌 Current Focus
 - **Backend basics** (Node+Express)
 - React ecosystem
-- TypeScript fundamentals
 - Writing cleaner, more maintainable code
