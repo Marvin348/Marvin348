@@ -1,22 +1,30 @@
 ## Hi there 👋
 
-I’m a motivated career changer from Germany, currently transitioning into Frontend Development.
-For the past 14 months I’ve been learning and building projects with **HTML**, **CSS**, **TypeScript**, **Tailwind** and **React** and I recently started diving into backend **(Node + Express)** to strengthen my foundation.
+I’m a motivated career changer from Germany, currently focused on becoming a strong **Fullstack-oriented Frontend Developer**.
+
+For the past 14+ months I’ve been learning and building projects with **HTML**, **CSS**, **TypeScript**, **Tailwind** and **React**.  
+Recently, I’ve been expanding deeper into the backend with **Node.js**, **Express** and **MongoDB** to understand the full data flow behind modern web applications.
 
 ### 🔥 What I enjoy
 
 - Building clean, interactive and user-friendly web interfaces
-- Learning modern technologies and applying them in real projects
-- Solving problems step by step and improving with every challenge
+- Connecting frontend and backend through well-structured APIs
+- Working with real application logic, data models and DTOs
+- Learning modern technologies by applying them in real projects
+- Solving problems step by step and improving through every challenge
 
 ### 🚀 My Goals
 
-- Join a modern frontend team that works with up-to-date technologies
-- Grow into a strong Frontend Developer through real project experience
-- Keep expanding my skills while building meaningful products
-- **Long-term:** Expand my skills towards **Fullstack Development**
+- Join a modern development team and grow through real project experience
+- Build maintainable frontend applications with strong TypeScript foundations
+- Strengthen my backend understanding with Node.js, Express and databases
+- Become confident in full application flows: UI → API → database → back to the user
+- **Long-term:** Grow into a capable Fullstack Developer
 
 ### 📌 Current Focus
-- **Backend basics** (Node+Express)
-- React ecosystem
-- Writing cleaner, more maintainable code
+
+- React + TypeScript
+- Node.js + Express
+- MongoDB / Mongoose
+- REST APIs and DTO design
+- Cleaner architecture and maintainable code
