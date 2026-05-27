@@ -9,7 +9,6 @@ Recently, I’ve been expanding deeper into the backend with **Node.js**, **Expr
 
 - Building clean, interactive and user-friendly web interfaces
 - Connecting frontend and backend through well-structured APIs
-- Working with real application logic, data models and DTOs
 - Learning modern technologies by applying them in real projects
 - Solving problems step by step and improving through every challenge
 
