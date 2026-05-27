@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I’m a motivated career changer from Germany, currently focused on becoming a strong **Fullstack-oriented Frontend Developer**.
 
