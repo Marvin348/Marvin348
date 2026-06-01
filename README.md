@@ -17,7 +17,6 @@ Recently, I’ve been expanding deeper into the backend with **Node.js**, **Expr
 - Join a modern development team and grow through real project experience
 - Build maintainable frontend applications with strong TypeScript foundations
 - Strengthen my backend understanding with Node.js, Express and databases
-- Become confident in full application flows: UI → API → database → back to the user
 - **Long-term:** Grow into a capable Fullstack Developer
 
 ### 📌 Current Focus
