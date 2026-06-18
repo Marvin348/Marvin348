@@ -15,7 +15,7 @@ Recently, I’ve been expanding deeper into the backend with **Node.js**, **Expr
 ### 🚀 My Goals
 
 - Join a modern development team and grow through real project experience
-- Build maintainable frontend applications with strong TypeScript foundations
+- Build maintainable fullstack applications with strong TypeScript foundations
 - Strengthen my backend understanding with Node.js, Express and databases
 - **Long-term:** Grow into a capable Fullstack Developer
 
