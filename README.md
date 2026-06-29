@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a motivated career changer from Germany, currently focused on becoming a strong **Fullstack-oriented Frontend Developer**.
+I’m a motivated career changer from Germany, currently focused on becoming a strong **Fullstack Developer**.
 
 For the past 14+ months I’ve been learning and building projects with **HTML**, **CSS**, **TypeScript**, **Tailwind** and **React**.  
 Recently, I’ve been expanding deeper into the backend with **Node.js**, **Express** and **MongoDB** to understand the full data flow behind modern web applications.
