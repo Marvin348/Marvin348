@@ -10,7 +10,6 @@ I started with **React** and **TypeScript** and gradually expanded into backend 
 - React + TypeScript
 - Node.js + Express
 - MongoDB + Mongoose
-- Redis
 - REST APIs
 - Docker
 - Vitest + Supertest
