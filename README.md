@@ -2,27 +2,25 @@
 
 I’m a motivated career changer from Germany, currently focused on becoming a strong **Fullstack Developer**.
 
-For the past 16+ months I’ve been learning and building projects with **HTML**, **CSS**, **TypeScript**, **Tailwind** and **React**.  
-Recently, I’ve been expanding deeper into the backend with **Node.js**, **Express** and **MongoDB** to understand the full data flow behind modern web applications.
+Since early 2025, I’ve been learning software development alongside my full-time job and continuously applying what I learn in real projects.
 
-### 🔥 What I enjoy
+I started with **React** and **TypeScript** and gradually expanded into backend development with **Node.js**, **Express** and **MongoDB**. Today, I’m also working with topics such as authentication, Redis sessions, testing, Docker, background processes and application architecture.
 
-- Building clean, interactive and user-friendly web interfaces
-- Connecting frontend and backend through well-structured APIs
-- Learning modern technologies by applying them in real projects
-- Solving problems step by step and improving through every challenge
+### 🚀 What I work with
+- React + TypeScript
+- Node.js + Express
+- MongoDB + Mongoose
+- Redis
+- REST APIs
+- Docker
+- Vitest + Supertest
+- React Query + Zustand
 
 ### 🚀 My Goals
 
-- Join a modern development team and grow through real project experience
-- Build maintainable fullstack applications
-- Strengthen my backend understanding with Node.js, Express and SQL
-- **Long-term:** Grow into a capable Fullstack Developer
+My goal is to join a development team where I can contribute with my current knowledge, gain professional experience and continue growing toward a strong Fullstack Developer.
 
 ### 📌 Current Focus
 
-- React + TypeScript
-- Node.js + Express
-- MongoDB / Mongoose
-- REST APIs and DTO design
-- Cleaner architecture and maintainable code
+Right now, I’m continuing to improve FlowDesk while going deeper into backend development, application architecture and infrastructure.
+My next major learning focus is **SQL**, while continuing to strengthen my knowledge of Node.js, databases, Redis, testing and scalable application design.
