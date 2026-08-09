@@ -12,7 +12,6 @@ I started with **React** and **TypeScript** and gradually expanded into backend 
 - MongoDB + Mongoose
 - REST APIs
 - Docker
-- Vitest + Supertest
 - React Query + Zustand
 
 ### 🚀 My Goals
