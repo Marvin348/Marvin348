@@ -10,9 +10,10 @@ I started with **React** and **TypeScript** and gradually expanded into backend 
 - React + TypeScript
 - Node.js + Express
 - MongoDB + Mongoose
+- SQL
 - REST APIs
 - Docker
-- React Query + Zustand
+- React Query
 
 ### 🚀 My Goals
 
