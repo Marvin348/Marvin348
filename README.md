@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a motivated career changer from Germany, currently focused on becoming a strong **Fullstack Developer*.
+I’m a motivated career changer from Germany, currently focused on becoming a strong **Fullstack Developer**.
 
 Since early 2025, I’ve been learning software development alongside my full-time job and continuously applying what I learn in real projects.
 
