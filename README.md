@@ -22,4 +22,4 @@ My goal is to join a development team where I can contribute with my current kno
 ### 📌 Current Focus
 
 Right now, I’m continuing to improve FlowDesk while going deeper into backend development, application architecture and infrastructure.
-My next major learning focus is **SQL**, while continuing to strengthen my knowledge of Node.js, databases, Redis, testing and scalable application design.
+My next major learning focus is **SQL**, and **Java** while continuing to strengthen my knowledge of Node.js, databases, Redis, testing and scalable application design.
