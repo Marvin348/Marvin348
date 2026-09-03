@@ -13,7 +13,6 @@ I started with **React** and **TypeScript** and gradually expanded into backend 
 - SQL
 - REST APIs
 - Docker
-- React Query
 
 ### 🚀 My Goals
 
