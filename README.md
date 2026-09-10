@@ -10,7 +10,7 @@ I started with **React** and **TypeScript** and gradually expanded into backend 
 - React + TypeScript
 - Node.js + Express
 - Java + Spring Boot
-- MongoDB + Mongoose
+- MongoDB
 - PostgreSQL
 - REST APIs
 - Docker
