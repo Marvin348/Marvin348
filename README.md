@@ -9,8 +9,9 @@ I started with **React** and **TypeScript** and gradually expanded into backend 
 ### 🚀 What I work with
 - React + TypeScript
 - Node.js + Express
+- Java + Spring Boot
 - MongoDB + Mongoose
-- SQL
+- PostgreSQL
 - REST APIs
 - Docker
 
