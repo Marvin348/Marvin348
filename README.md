@@ -21,5 +21,6 @@ My goal is to join a development team where I can contribute with my current kno
 
 ### 📌 Current Focus
 
-Right now, I’m continuing to improve FlowDesk while going deeper into backend development, application architecture and infrastructure.
-My next major learning focus is **SQL**, and **Java** while continuing to strengthen my knowledge of Node.js, databases, Redis, testing and scalable application design.
+Right now, my main focus is Harbor, a multi-tenant B2B service management application built with Java, Spring Boot, PostgreSQL and React/TypeScript.
+
+With Harbor, I’m going deeper into backend development, SQL, application architecture, multi-tenant systems and robust enterprise application design, while continuing to strengthen my knowledge of databases, testing and scalable backend development.
