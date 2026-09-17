@@ -22,5 +22,3 @@ My goal is to join a development team where I can contribute with my current kno
 ### 📌 Current Focus
 
 Right now, my main focus is Harbor, a multi-tenant B2B service management application built with Java, Spring Boot, PostgreSQL and React/TypeScript.
-
-With Harbor, I’m going deeper into backend development, SQL, application architecture, multi-tenant systems and robust enterprise application design, while continuing to strengthen my knowledge of databases, testing and scalable backend development.
