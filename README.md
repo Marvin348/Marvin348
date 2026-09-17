@@ -6,7 +6,7 @@ Since early 2025, I’ve been learning software development alongside my full-ti
 
 I started with **React** and **TypeScript** and gradually expanded into backend development with **Node.js**, **Express** and **MongoDB**. Today, I’m also working with topics such as authentication, Redis sessions, testing, Docker, background processes and application architecture.
 
-### 🚀 What I work with
+### 🛠️ What I work with
 - React + TypeScript
 - Node.js + Express
 - Java + Spring Boot
