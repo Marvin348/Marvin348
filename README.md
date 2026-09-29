@@ -12,8 +12,8 @@ I started with **React** and **TypeScript** and gradually expanded into backend 
 - Java + Spring Boot
 - MongoDB
 - PostgreSQL
-- REST APIs
 - Docker
+- REST APIs
 
 ### 🚀 My Goals
 
