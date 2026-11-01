@@ -1,24 +1,29 @@
 ## Hi there 👋
 
-I’m a motivated career changer from Germany, currently focused on becoming a strong **Fullstack Developer**.
+I'm a junior software developer from Germany with a strong interest in backend development, distributed systems and modern web technologies.
 
-Since early 2025, I’ve been learning software development alongside my full-time job and continuously applying what I learn in real projects.
+I enjoy building applications, understanding how systems work under the hood and continuously improving my skills through hands-on projects.
 
-I started with **React** and **TypeScript** and gradually expanded into backend development with **Node.js**, **Express** and **MongoDB**. Today, I’m also working with topics such as authentication, Redis, testing, Docker, background processes and application architecture.
+### 🛠️ Tech Stack
 
-### 🛠️ What I work with
-- React + TypeScript
-- Node.js + Express
-- Java + Spring Boot
-- MongoDB
-- PostgreSQL
-- Docker
-- REST APIs
+Languages: Go, TypeScript, Java, JavaScript
 
-### 🚀 My Goal
+Backend: Go (net/http), Node.js, Express, Spring Boot, REST APIs, gRPC
 
-My goal is to join a development team where I can contribute with my current knowledge, gain professional experience and continue growing toward a strong **Fullstack Developer**.
+Frontend: React, TypeScript, Tailwind CSS
 
-### 📌 Current Focus
+Databases & Infrastructure: PostgreSQL, MongoDB, Redis, Docker
 
-Right now, my main focus is Harbor, a multi-tenant B2B service management application built with Java, Spring Boot, PostgreSQL and React/TypeScript.
+Testing & Tools: Vitest, Git, GitHub
+
+### 🚀 Current Focus
+
+I'm currently building trest, a lightweight hosting platform written in Go.
+
+The project focuses on microservice architecture, service-to-service communication with gRPC, PostgreSQL and containerized infrastructure.
+
+Alongside that, I'm exploring topics such as distributed systems, reliability and cloud-native development.
+
+### 📈 Always Learning
+
+I'm particularly interested in backend engineering, system architecture and building reliable, maintainable software.
