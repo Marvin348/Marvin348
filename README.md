@@ -16,12 +16,6 @@ Databases: PostgreSQL, MongoDB, Redis
 
 Tools & Infrastructure: Docker, Git, GitHub
 
-### 🚀 Current Focus
-
-trest — A lightweight hosting platform built with Go.
-
-Exploring microservice architecture, gRPC communication, PostgreSQL and containerized infrastructure.
-
 ### 📚 Interests
 
 Backend Architecture · Distributed Systems · Cloud-Native Technologies · Software Engineering
