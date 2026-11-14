@@ -6,15 +6,13 @@ I enjoy building applications, understanding how systems work under the hood and
 
 ### 🛠️ Tech Stack
 
-Languages: Go, TypeScript, Java, JavaScript
+Languages: Go, TypeScript
 
-Backend: Go (net/http), Node.js, Express, Spring Boot, REST APIs, gRPC
+Backend: Go(net/http), Node.js, Express, REST APIs, gRPC
 
 Frontend: React, TypeScript, Tailwind CSS
 
 Databases: PostgreSQL, MongoDB, Redis
-
-Tools & Infrastructure: Docker, Git, GitHub
 
 ### 📚 Interests
 
