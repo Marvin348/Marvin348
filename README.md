@@ -8,7 +8,7 @@ I enjoy building applications, understanding how systems work under the hood and
 
 Languages: Go, TypeScript
 
-Backend: Go(net/http), Node.js, Express, REST APIs, gRPC
+Backend: Go, Node.js, Express, REST APIs, gRPC
 
 Frontend: React, TypeScript, Tailwind CSS
 
